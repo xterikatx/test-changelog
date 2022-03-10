@@ -1,0 +1,38 @@
+{
+  "types": [
+    {
+      "type": "feat",
+      "section": "Features"
+    },
+    {
+      "type": "fix",
+      "section": "Bug Fixes"
+    },
+    {
+      "type": "chore",
+      "section": "Tarefa"
+    },
+    {
+      "type": "docs",
+      "section": "Documentação"
+    },
+    {
+      "type": "style",
+      "section": "Estilo"
+    },
+    {
+      "type": "refactor",
+      "section": "Refatação"
+    },
+    {
+      "type": "perf",
+      "section": "Performance"
+    },
+    {
+      "type": "test",
+      "section": "Testes"
+    }
+  ],
+  "commitUrlFormat": "https://github.com/xterikatx/test-changelog/commits/{{hash}}",
+  "compareUrlFormat": "https://github.com/xterikatx/test-changelog/compare/{{previousTag}}...{{currentTag}}"
+}
